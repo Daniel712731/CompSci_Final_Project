@@ -88,7 +88,7 @@ pygame.display.set_caption('A Culminating Effort')
 #Global Functions
 
 #Function to load a level's map (takes the file name as an argument)
-#I used a bit of code from a Youtube tutorial for this function
+#I used code from a Youtube tutorial for this function
 #Link: https://youtu.be/abH2MSBdnWc?list=PLX5fBCkxJmm3nAalPU6gGfRIFLlghRuYy
 def load_map(path):
     #This function opens a .txt file that has the data for a level's map, and turns it into a 2D array
