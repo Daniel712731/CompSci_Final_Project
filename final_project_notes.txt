@@ -1,0 +1,16 @@
+Author: Daniel Zhou
+Class: ICS3UO-C
+Date: April 6, 2021
+Version: 
+Unit: 6 (Culminating project)
+Programming Language: Python 3.9.0
+
+Program Description:
+
+Program Assumptions:
+
+Features of the Program:
+
+Restrictions:
+
+Known Errors:
